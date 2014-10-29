@@ -4,6 +4,8 @@ package main
 
 import (
 	"github.com/RAttab/bleh/deps/blah"
+
+	"fmt"
 )
 
 func main() {
